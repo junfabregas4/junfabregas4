@@ -3,8 +3,8 @@
 ## 💻 Skills
 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,dart,graphql,flutter,react,nextjs,spring" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,supabase,firebase,androidstudio,git,vscode,eclipse,github,gitlab,gradle" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,flutter,react,nextjs" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,supabase,firebase,vscode,github,gitlab" />
 
 
 ## 📈Activity
