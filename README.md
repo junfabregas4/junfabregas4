@@ -8,10 +8,12 @@
 
 
 ## 📈Activity
-
 <p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/junfabregas4/junfabregas4/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%"/></p>
-
 <p>
 <img src="https://raw.githubusercontent.com/junfabregas4/junfabregas4/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/junfabregas4/junfabregas4/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="48%"/>
+</p>
+<p>
 <img src="https://raw.githubusercontent.com/junfabregas4/junfabregas4/main/profile-summary-card-output/nord_dark/3-stats.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/junfabregas4/junfabregas4/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="48%"/>
 </p>
